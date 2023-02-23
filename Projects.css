@@ -1,0 +1,25 @@
+
+.Hawaii{
+    padding-left: 250px;
+    padding-top: 150px;
+    display: flex;
+    flex-direction: column;
+}
+.Hawaii-texto{
+    padding-right: 600px;
+
+}
+.Hawaii-img{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.alt-hawaii{
+    padding-left: 30px;
+    font-size: 20px;
+}
+.link-hawaii{
+    color: blue;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
